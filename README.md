@@ -1,2 +1,2 @@
 # PosCienciaDeDados
-Projetos feitos durante o curso 2020/21
+Projetos feitos durante o curso de pós-graduação 2020/21
